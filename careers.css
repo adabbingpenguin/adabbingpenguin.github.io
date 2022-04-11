@@ -1,0 +1,19 @@
+body{
+	background-image: url(taustakuva.jpg);
+
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+#banneri{
+	background-color: pink!important;
+	color:black!important;
+	
+}
+/*
+.container-fluid:first-of-type{
+	background-color: pink!important;
+	
+}
+
+*/
