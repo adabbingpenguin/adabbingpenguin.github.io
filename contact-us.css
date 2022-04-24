@@ -3,7 +3,7 @@ body{
 
 	margin-left: auto;
 	margin-right: auto;
-	
+	text-align:center;
 }
 #banneri{
 	background-color: pink!important;
@@ -23,4 +23,9 @@ body{
 }
 #cat-info{
 	margin-top: 5em!important;
+}
+#body{
+	background-color: pink!important;
+	color:black!important;
+	
 }

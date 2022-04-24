@@ -3,7 +3,7 @@ body{
 
 	margin-left: auto;
 	margin-right: auto;
-	
+	text-align:center;
 }
 #banneri{
 	background-color: pink!important;
@@ -17,3 +17,34 @@ body{
 }
 
 */
+#pink1{
+	background-color: pink!important;
+	color:black!important;
+	
+}
+#pink2{
+	background-color: pink!important;
+	color:black!important;
+	
+}
+#pink3{
+	background-color: pink!important;
+	color:black!important;
+	
+}
+
+#categorybar{
+	text-align:center!important;
+	
+}
+
+#cotd{
+	object-fit: cover!important;
+}
+.center {
+margin: 0 auto;
+
+}
+#footer{
+	background-image: url(taustakuva.jpg)!important;
+}
